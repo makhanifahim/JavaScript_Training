@@ -13,3 +13,4 @@ function sumFibs(num) {
   }
   
   sumFibs(4);
+  
